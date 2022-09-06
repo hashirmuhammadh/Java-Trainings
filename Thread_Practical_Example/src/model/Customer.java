@@ -1,6 +1,6 @@
 package model;
 
-public class Customer implements Runnable {
+public class  Customer implements Runnable {
 
     BankAccount bankaccount;
 
